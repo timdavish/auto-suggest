@@ -1,3 +1,3 @@
-# Auto Suggest
+# Suggester
 
-Auto Suggest is a lightweight module for giving query suggestions.
+Suggester is a lightweight module for giving query suggestions.
